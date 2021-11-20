@@ -1,0 +1,29 @@
+1. git sofrware 설치하기
+
+2. git config --global user.email "nmatt20@naver.com"
+   git config --global user.name "youngssang"
+
+3. git status
+
+4. git add *
+
+5. git commit -m "파일명"
+
+6. git push "주소"
+
+
+
+
+#include <stdio.h>
+
+int main() {
+
+
+
+
+
+	return 0;
+}
+
+git config --global user.email "nmatt20@naver.com"
+git config --global user.name "youngssang"
