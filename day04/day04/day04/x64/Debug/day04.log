@@ -1,0 +1,3 @@
+﻿  99dan.cpp
+C:\devC++\day04\day04\day04\99dan.cpp(6,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  day04.vcxproj -> C:\devC++\day04\day04\x64\Debug\day04.exe
