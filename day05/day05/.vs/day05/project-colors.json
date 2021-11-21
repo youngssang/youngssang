@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb03d2d6-c312-45e5-8db8-8bfcc3c52cac": {
+      "ProjectGuid": "eb03d2d6-c312-45e5-8db8-8bfcc3c52cac",
+      "DisplayName": "student_score",
+      "ColorIndex": 0
+    },
+    "87b8a84d-0f06-4f1e-a870-aa5645ca9c79": {
+      "ProjectGuid": "87b8a84d-0f06-4f1e-a870-aa5645ca9c79",
+      "DisplayName": "day05",
+      "ColorIndex": 1
+    },
+    "75b20c0e-fade-4a5c-99cc-dbadce417bba": {
+      "ProjectGuid": "75b20c0e-fade-4a5c-99cc-dbadce417bba",
+      "DisplayName": "poly",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
